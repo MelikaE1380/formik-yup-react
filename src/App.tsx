@@ -14,8 +14,7 @@ function App() {
         </a>
         <p>ملیکا اسکندرزاده</p>
         <p>develop branch</p>
-        <p>I want to check and work with upstream</p>
-        <p>upstream done</p>
+        <p>i made a mistake in writing git commit .....</p>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
